@@ -1,0 +1,164 @@
+[
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién es el autor del texto?",
+        "respuesta": "Armando Arrieta Barbosa",
+        "incorrecta1": "Gabriel García Márquez",
+        "incorrecta2": "Pablo Neruda",
+        "incorrecta3": "Mario Vargas Llosa",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué fecha ocurrió el evento en Santa Fe de Bogotá que se menciona en el texto?",
+        "respuesta": "El 20 de julio de 1810",
+        "incorrecta1": "El 4 de julio de 1776",
+        "incorrecta2": "El 14 de julio de 1789",
+        "incorrecta3": "El 16 de septiembre de 1810",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué acto se firmó durante el evento del 20 de julio de 1810 en Santa Fe de Bogotá?",
+        "respuesta": "Un \"Acta de Independencia\"",
+        "incorrecta1": "La Declaración de Derechos del Hombre",
+        "incorrecta2": "El Tratado de Tordesillas",
+        "incorrecta3": "El Grito de Dolores",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿A quiénes se dirigió la “Acta de Independencia” según el texto?",
+        "respuesta": "A los franceses que habían invadido España",
+        "incorrecta1": "A los ingleses",
+        "incorrecta2": "A los portugueses",
+        "incorrecta3": "A los italianos",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién estaba en el trono español en el momento en que Napoleón Bonaparte se apoderó de él?",
+        "respuesta": "Fernando VII de España",
+        "incorrecta1": "Carlos IV de España",
+        "incorrecta2": "Isabel II de España",
+        "incorrecta3": "Felipe V de España",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué se decidió en la reunión del cabildo de Cartagena el 22 de mayo de 1810?",
+        "respuesta": "Formar una junta de gobierno a favor del rey Fernando VII de España",
+        "incorrecta1": "Declarar la independencia",
+        "incorrecta2": "Aliarse con Francia",
+        "incorrecta3": "Formar un gobierno republicano",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál fue el motivo del banquete organizado el 20 de julio de 1810 en Santa Fe de Bogotá?",
+        "respuesta": "Para darle la bienvenida a Antonio de Villavicencio",
+        "incorrecta1": "Para celebrar la independencia",
+        "incorrecta2": "Para celebrar un cumpleaños",
+        "incorrecta3": "Para conmemorar una victoria",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué evento causó la discusión durante el banquete del 20 de julio de 1810 en Santa Fe de Bogotá?",
+        "respuesta": "Una pelea entre los organizadores del banquete y el español Antonio González Llorente",
+        "incorrecta1": "Una disputa sobre los impuestos",
+        "incorrecta2": "Un desacuerdo sobre la música",
+        "incorrecta3": "Una discusión sobre la comida",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué día se formó la junta de gobierno provisional en Santa Fe de Bogotá?",
+        "respuesta": "El 20 de julio de 1810",
+        "incorrecta1": "El 16 de septiembre de 1810",
+        "incorrecta2": "El 14 de julio de 1789",
+        "incorrecta3": "El 4 de julio de 1776",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué afirmación se hizo en el Acta de Independencia sobre la religión católica y el rey Fernando VII?",
+        "respuesta": "Se juró defender la religión católica apostólica romana y al rey Fernando VII",
+        "incorrecta1": "Se declaró la separación de la iglesia y el estado",
+        "incorrecta2": "Se abolió la monarquía",
+        "incorrecta3": "Se proclamó la libertad religiosa",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué fecha se menciona como el inicio del verdadero movimiento de independencia contra España según el texto?",
+        "respuesta": "El 11 de noviembre de 1811",
+        "incorrecta1": "El 20 de julio de 1810",
+        "incorrecta2": "El 7 de agosto de 1819",
+        "incorrecta3": "El 5 de julio de 1811",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué hizo el rey Fernando VII después de recuperar el trono en 1814?",
+        "respuesta": "Envió grandes ejércitos para reconquistar los territorios que se habían declarado independientes",
+        "incorrecta1": "Firmó tratados de paz",
+        "incorrecta2": "Abdicó del trono",
+        "incorrecta3": "Estableció una monarquía constitucional",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quiénes unieron sus ejércitos a principios de 1819 para liberar los territorios de los llanos orientales?",
+        "respuesta": "Simón Bolívar y Francisco de Paula Santander",
+        "incorrecta1": "Simón Bolívar y José de San Martín",
+        "incorrecta2": "Francisco de Paula Santander y José Antonio Páez",
+        "incorrecta3": "Manuel Belgrano y Bernardo O'Higgins",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué fecha corresponde a la batalla en el puente de Boyacá que liberó Santa Fe de Bogotá?",
+        "respuesta": "El 7 de agosto de 1819",
+        "incorrecta1": "El 5 de julio de 1811",
+        "incorrecta2": "El 9 de julio de 1816",
+        "incorrecta3": "El 12 de febrero de 1817",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué ciudades fueron liberadas el 12 de julio de 1820?",
+        "respuesta": "Barranquilla, Soledad, Malambo y Cartagena",
+        "incorrecta1": "Bogotá, Medellín, Cali y Bucaramanga",
+        "incorrecta2": "Quito, Guayaquil, Cuenca y Loja",
+        "incorrecta3": "Caracas, Maracaibo, Valencia y Barquisimeto",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué fecha se adoptó como el día de la independencia nacional por los historiadores del interior del país?",
+        "respuesta": "El 7 de agosto de 1819",
+        "incorrecta1": "El 20 de julio de 1810",
+        "incorrecta2": "El 11 de noviembre de 1811",
+        "incorrecta3": "El 9 de julio de 1816",
+        "imagen": "https://i.ytimg.com/vi/M9tv9dWDOIk/sddefault.jpg",
+        "objectFit": "cover"
+    }
+]
+
+    
